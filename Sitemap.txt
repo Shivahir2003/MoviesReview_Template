@@ -1,0 +1,58 @@
+Index
+	--> home page/Dashborad
+
+Movies :
+	--> Movies List
+	--> Movies Add
+
+Movies Language :
+
+	--> Movies_Language List
+	--> Movies_Language Add
+Movies Type :
+
+	--> Movies_Type List
+	--> Movies_Type Add
+Movies Platform :
+
+	--> Movies_Platform List
+	--> Movies_Platform Add
+Cast :
+
+	--> Cast List
+	--> Cast Add
+Movies Review :
+
+	--> Movies_Review List
+	--> Movies_Review Add
+User :
+	--> User List
+	--> User Add
+
+
+---------------------------------------------------
+In Home Page
+	
+	Carousel to show new movies
+	List  popular Movies
+	user list in table form
+	
+
+In All List Pages :-
+
+  Table to show data 
+	Column : From Data Base
+	Delete Button 
+	<!-- Sweet Alert To Conform --> 
+	Edit Button
+
+  Button to link to the Add page
+	Button : Add
+
+
+In All Add Page :
+
+	Form to get data from user
+
+	Submit button
+	<!-- Sweet Alert To Conform --> 	
